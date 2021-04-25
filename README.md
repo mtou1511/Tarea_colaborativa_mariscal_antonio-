@@ -24,8 +24,8 @@ Algoritmo ejercicio_20
 				nota_practica<-nota_practica*0.1
 				nota_problemas<-nota_problemas*0.5
 				nota_teoria<-nota_teoria*0.4
-				nota_problemas<-nota_practica+nota_problemas+nota_teoria/3
-				Escribir "La nota final es " nota_problemas
+				na_problemas<-nota_practica+nota_problemas+nota_teoria
+				scribir "La nota final es " ota_problemases
 			Sino
 				Escribir "Has escrito una nota incorrecta, vuelve a intentarlo"
 
